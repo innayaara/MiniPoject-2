@@ -8,9 +8,10 @@ Kelas: C
 
 Tema: Sistem Pemesanan Makanan Online
 
-# Flowcchart
+# Flowchart
 
-![sistem pemesanan makanan online](https://github.com/user-attachments/assets/2d43286b-349a-48e6-b132-96774d9cd615)
+![sistem pemesanan makanan online (1)](https://github.com/user-attachments/assets/9eb76241-457e-45cb-96df-b13bce1ef3f2)
+
 
 Gambar di atas adlah flowcchart dari program yang saya buat
 
