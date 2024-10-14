@@ -10,4 +10,7 @@ Tema: Sistem Pemesanan Makanan Online
 
 # Flowcchart
 
-https://drive.google.com/file/d/1W_i7iRSRbDK2EFVx1eI0Bb5Z9wMglJDh/view?usp=sharing
+![sistem pemesanan makanan online](https://github.com/user-attachments/assets/2d43286b-349a-48e6-b132-96774d9cd615)
+
+Gambar di atas adlah flowcchart dari program yang saya buat
+
