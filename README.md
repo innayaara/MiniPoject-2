@@ -13,13 +13,13 @@ Tema: Sistem Pemesanan Makanan Online
 ![sistem pemesanan makanan online (1)](https://github.com/user-attachments/assets/9eb76241-457e-45cb-96df-b13bce1ef3f2)
 
 
-Gambar di atas adlah flowcchart dari program yang saya buat
+Gambar di atas adlah flowcchart dari program yang saya buat.
 
 # Output Awal Program
 
 ![Screenshot 2024-10-14 235549](https://github.com/user-attachments/assets/dc17a6bf-bf6b-41e4-beff-c96a5e1141e8)
 
-Pesan selamat datang ditampilkan untuk memulai program, pengguna diminta untuk memasukkan username dan password
+Pesan selamat datang ditampilkan untuk memulai program, pengguna diminta untuk memasukkan username dan password.
 
 # Output Login
 
